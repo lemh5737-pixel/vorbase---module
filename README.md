@@ -1,8 +1,8 @@
 📘 README.md
 
-# My DB API
+# My Vorbase
 
-A simple Node.js module to interact with your modular JSON database API.
+Module Add base atau control database di Vorbase 
 
 ## Installation
 ```bash
@@ -10,7 +10,7 @@ npm install my-db-api
 
 Usage
 
-import { add, read } from "my-db-api";
+import { add, read } from "vorbase";
 
 // Add data
 await add({
