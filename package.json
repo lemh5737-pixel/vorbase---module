@@ -1,0 +1,12 @@
+{
+  "name": "vorbase",
+  "version": "1.0.0",
+  "description": "Module Database",
+  "main": "index.js",
+  "type": "module",
+  "author": "Vorbase: Vortex Base",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
