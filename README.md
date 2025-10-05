@@ -6,7 +6,7 @@ Module Add base atau control database di Vorbase
 
 ## Installation
 ```bash
-npm install my-db-api
+npm install vorbase
 
 Usage
 
